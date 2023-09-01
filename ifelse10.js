@@ -11,5 +11,5 @@ let bs=5000,gs=2110,da=42,hra=44
 		da = bs * 95 / 100;
 	}
 		gs = bs + da + hra;
-	console.log("gross salary is rs %f",gs);
+	console.log("gross salary is rs: ",gs);
     
