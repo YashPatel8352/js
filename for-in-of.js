@@ -1,3 +1,4 @@
+//1.for in loop
 // let person = 
 // {
 //     name:"skill",
@@ -22,6 +23,9 @@
 // {
 //     console.log(mystring[i]);
 // }
+
+//2.for of loop
+
 // for(let x of mystring)
 // {
 //     console.log(x);
@@ -29,8 +33,8 @@
 
 
 
-// let abc = ["apple","banana","kiwi","orange"];
-// for(let x of abc)
-// {
-//     console.log(x);
-// }
+let abc = ["apple","banana","kiwi","orange"];
+for(let x of abc)
+{
+    console.log(x);
+}
