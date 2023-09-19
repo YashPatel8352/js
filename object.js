@@ -28,7 +28,7 @@
 //3.nested object
 // let person = {
 //     name :"skill",
-//     age : 25,
+//     age : 25,   
 //     email:"hello@test.com",
 
 //     address :{
@@ -47,4 +47,5 @@ let person = {
 };
 let abc ={};
 Object.assign(abc,person);
-console.log(abc);
+console.log(abc);  
+
